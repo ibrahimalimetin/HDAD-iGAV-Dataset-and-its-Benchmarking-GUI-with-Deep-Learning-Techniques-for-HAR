@@ -42,3 +42,8 @@ Kaynak:
 [4] WISDM dataset website. WISDM Lab Dataset. https://www.cis.fordham.edu/wisdm/dataset.php
 
 [5] UCI dataset website. Human activity recognition using smartphones dataset. https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
+
+[6] Venelin Valkov, (2017), Medium Website (Human Activity Recognition using LSTMs on Android): https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-for-hackers-part-vi-492da5adef64
+
+[7] Tomasz Bartkowiak, (2021), Github Website (Human Activity Recognition on the Wireless Sensor Data Mining (WISDM) dataset using Bidirectional LSTM Recurrent Neural Networks):
+https://github.com/bartkowiaktomasz
